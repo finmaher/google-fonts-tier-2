@@ -5,7 +5,7 @@
 
 I completed this project to give the [Chingu](https://www.chingu.io) facilitators an understanding of my abilities as a developer who is about to join the next Chingu Voyage 13. Ultimately it will help them to create balanced, remote teams of developers for our upcoming 8 week project. 
 
-**You can view my project here: [Chingu Voyage 13: Pre-Work Project](https://miyazakid.github.io/)**
+**You can no longer view the project online**
 
 ## The App
 
